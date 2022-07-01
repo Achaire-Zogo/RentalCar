@@ -1,6 +1,6 @@
 How to run Project
 
-1. Put carrental folder inside root directory (for xampp xampp/htdocs, for wamp wamp/www, for lamp var/www/html)
+1. Put rentalcar folder inside root directory (for xampp xampp/htdocs, for wamp wamp/www, for lamp var/www/html)
 
 Database Configuration
 
